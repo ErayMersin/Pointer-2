@@ -1,0 +1,6 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Pointer-2\Pointer-2\Kaynak.c(13,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\eray\source\repos\Pointer-2\Pointer-2\Kaynak.c(13,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\eray\source\repos\Pointer-2\Pointer-2\Kaynak.c(23,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\eray\source\repos\Pointer-2\Pointer-2\Kaynak.c(23,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+  Pointer-2.vcxproj -> C:\Users\eray\source\repos\Pointer-2\x64\Debug\Pointer-2.exe
